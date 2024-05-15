@@ -30,6 +30,6 @@ React를 학습 기록을 담은 개인 레포지토리입니다. 저는 8년차
 
 ### 프로젝트5: [tiktok-clone-nextjs](https://github.com/Seungwoo321/tiktok-clone-nextjs)
 
-- 기간: 2024. 05. 15 ~ (진행중)
+- 기간: 2024. 05. 14 ~ (진행중)
 - 사용 기술: react, next, vite, typescript, tailwind, zustand
 - 설명: 유뷰트 영상을 보면서 클론을 진행중입니다.
